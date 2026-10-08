@@ -6,7 +6,11 @@
 
 > **使用前提**：只能下载你自己发布的、或已获得授权的视频。搬运他人作品违反平台规则，也可能侵犯著作权。本项目不提供任何绕过授权的能力。
 
----
+## 下载
+
+到 [**Releases**](https://github.com/chuiziyao/wushuang-download/releases) 下载 `wushuang-download-v5.2-win64.exe`，双击即用，**不需要安装 Python**。
+
+想自己改代码或自行打包，见下方「[从源码运行 / 自行打包](#从源码运行--自行打包)」。
 
 ## 特点
 
